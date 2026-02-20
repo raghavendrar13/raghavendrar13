@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Raghavendra R
 
-<!--
-**raghavendrar13/raghavendrar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Science Engineering (AIML)
+Artificial Intelligence and Machine Learning.
+Interested in Frontend Development, Cybersecurity etc..
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+- Python
+- HTML
+- CSS
+- NumPy ,Pandas,Matplotlib / Seaborn
+- Git & GitHub
+
+---
+
+Connect
+- LinkedIn: https://www.linkedin.com/in/raghavendra-r13?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
