@@ -1,8 +1,8 @@
 # Hi 👋 I'm Raghavendra R
 
- Bachelor of engineering Artificial Intelligence and Machine Learning (AIML)
-Computer science engineering-Artificial Intelligence and Machine Learning
-Interested in Frontend Development, Cybersecurity etc..
+ Bachelor of Engineering (B.E) in Artificial Intelligence and Machine Learning (AIML)
+
+Interested in Artificial Intelligence (AI) , Machine Learning (ML) ,Frontend Development, Cybersecurity , Cloud etc..
 
 ---
 
